@@ -10,8 +10,8 @@ Updated: 12/20/2023
 
 | Dataset          | Dataset      | Metadata (train, test)|
 | :----------------| :------------| :-------------------- |
-| 300W             | [official](https://ibug.doc.ic.ac.uk/resources/300-W/)             | [google](https://drive.google.com/drive/folders/12FMfwp10zmsHm5ngvwXuN7Z5vBFd_Ltu?usp=sharing) / [baidu](https://pan.baidu.com/s/1oCMWoHuz1K8flvDyA8W0cQ?pwd=xm5z)  |
-| WFLW             | [official](https://wywu.github.io/projects/LAB/WFLW.html)          | [google](https://drive.google.com/drive/folders/1fRwu2x5Rhqflagq85CtVooegO16jFDLr?usp=sharing) / [baidu](https://pan.baidu.com/s/1Ng_hdcaANIW5LG8y9sQncw?pwd=b36h)  |
+| 300W             | [official](https://ibug.doc.ic.ac.uk/resources/300-W/)             | [google](https://drive.google.com/drive/folders/1X8img5yRyLXV2cBxtbWuCOsNKVQMz1Sm?usp=share_link) / [baidu](https://pan.baidu.com/s/1GOGSpn3PQEYHf23r4eEBHA?pwd=6czg)  |
+| WFLW             | [official](https://wywu.github.io/projects/LAB/WFLW.html)          | [google](https://drive.google.com/drive/folders/1egD-fQjfcPoU7daMAQNFxh434Ijz7jLV?usp=share_link) / [baidu](https://pan.baidu.com/s/1NddBa8GIeI8cEADq5XNBSg?pwd=1yme)  |
 
 ## Structure
 | Folder           | Description                                                            |

@@ -1,0 +1,6 @@
+.vs
+.git
+__pycache__
+data
+model
+log
