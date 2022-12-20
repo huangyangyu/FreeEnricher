@@ -1,0 +1,3 @@
+[submodule "ADNet"]
+	path = ADNet
+	url = git@github.com:huangyangyu/ADNet.git
