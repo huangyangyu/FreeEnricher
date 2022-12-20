@@ -13,7 +13,7 @@ class Alignment(Base):
         self.net = "stackedHGnet_v1"
         self.nstack = 4
         self.loader_type = "alignment"
-        self.data_definition = "300W" # COFW, 300W, WFLW
+        self.data_definition = "300WDense" # COFW, 300W, WFLW, 300WDense, WFLWDense
         self.batch_size = 32
         self.channels = 3
         self.width = 256
