@@ -50,7 +50,17 @@ Table 2. Comparing with state-of-the-art methods on original **300W** and **WFLW
 
 ## Citation
 
-TBD
+```
+@inproceedings{huang2023freeenricher,
+  title={FreeEnricher: enriching face landmarks without additional cost},
+  author={Huang, Yangyu and Chen, Xi and Kim, Jongyoo and Yang, Hao and Li, Chong and Yang, Jiaolong and Chen, Dong},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={37},
+  number={1},
+  pages={962--970},
+  year={2023}
+}
+```
 
 ## License
 
